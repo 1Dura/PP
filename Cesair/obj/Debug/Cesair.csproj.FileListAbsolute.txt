@@ -1,0 +1,10 @@
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.csproj.AssemblyReference.cache
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.Form1.resources
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.Properties.Resources.resources
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.csproj.GenerateResource.cache
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.csproj.CoreCompileInputs.cache
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\bin\Debug\Cesair.exe.config
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\bin\Debug\Cesair.exe
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\bin\Debug\Cesair.pdb
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.exe
+C:\Users\BeSTa\Desktop\Projects C#\Cesair\obj\Debug\Cesair.pdb
