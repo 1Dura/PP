@@ -1,0 +1,10 @@
+C:\Users\BeSTa\source\repos\2 lab computer graphics\bin\Debug\2 lab computer graphics.exe.config
+C:\Users\BeSTa\source\repos\2 lab computer graphics\bin\Debug\2 lab computer graphics.exe
+C:\Users\BeSTa\source\repos\2 lab computer graphics\bin\Debug\2 lab computer graphics.pdb
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\2 lab computer graphics.csproj.AssemblyReference.cache
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\_2_lab_computer_graphics.Form1.resources
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\_2_lab_computer_graphics.Properties.Resources.resources
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\2 lab computer graphics.csproj.GenerateResource.cache
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\2 lab computer graphics.csproj.CoreCompileInputs.cache
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\2 lab computer graphics.exe
+C:\Users\BeSTa\source\repos\2 lab computer graphics\obj\Debug\2 lab computer graphics.pdb
