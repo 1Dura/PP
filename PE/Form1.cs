@@ -415,5 +415,12 @@ namespace _2_lab_computer_graphics
             Filters filter = new ChessFilter();
             backgroundWorker1.RunWorkerAsync(filter);
         }
+
+        private void cHARlieTakeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string asciiArt = ImageToAsciiConverter.ConvertToAscii(image);
+            Clipboard.SetText(asciiArt);
+            MessageBox.Show("Изображение сконвертировано в ASCII и скопировано в буфер обмена!", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

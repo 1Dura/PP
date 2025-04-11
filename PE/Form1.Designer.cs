@@ -35,6 +35,7 @@
             this.файлToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.открытьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.сохранитьКакToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cHARlieTakeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.фильтрыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.точечныеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.инверсияToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -49,6 +50,7 @@
             this.волныВертикальныеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.волныГоризонтальныеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.стеклоToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.минимумToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.матричныеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.размытиеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.размытиеПоГауссуToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -63,6 +65,8 @@
             this.операторыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.щарраToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.прюиттаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.лютоеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.шахматыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
@@ -71,9 +75,6 @@
             this.backgroundWorker3 = new System.ComponentModel.BackgroundWorker();
             this.Stop = new System.Windows.Forms.Button();
             this.Dpicture = new System.Windows.Forms.PictureBox();
-            this.минимумToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.лютоеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.шахматыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Dpicture)).BeginInit();
@@ -106,7 +107,8 @@
             // 
             this.файлToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.открытьToolStripMenuItem,
-            this.сохранитьКакToolStripMenuItem});
+            this.сохранитьКакToolStripMenuItem,
+            this.cHARlieTakeToolStripMenuItem});
             this.файлToolStripMenuItem.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
             this.файлToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
@@ -117,7 +119,7 @@
             this.открытьToolStripMenuItem.BackColor = System.Drawing.SystemColors.Desktop;
             this.открытьToolStripMenuItem.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.открытьToolStripMenuItem.Name = "открытьToolStripMenuItem";
-            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(192, 26);
+            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.открытьToolStripMenuItem.Text = "Открыть";
             this.открытьToolStripMenuItem.Click += new System.EventHandler(this.открытьToolStripMenuItem_Click);
             // 
@@ -126,9 +128,16 @@
             this.сохранитьКакToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlText;
             this.сохранитьКакToolStripMenuItem.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.сохранитьКакToolStripMenuItem.Name = "сохранитьКакToolStripMenuItem";
-            this.сохранитьКакToolStripMenuItem.Size = new System.Drawing.Size(192, 26);
+            this.сохранитьКакToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.сохранитьКакToolStripMenuItem.Text = "Сохранить как";
             this.сохранитьКакToolStripMenuItem.Click += new System.EventHandler(this.сохранитьКакToolStripMenuItem_Click);
+            // 
+            // cHARlieTakeToolStripMenuItem
+            // 
+            this.cHARlieTakeToolStripMenuItem.Name = "cHARlieTakeToolStripMenuItem";
+            this.cHARlieTakeToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.cHARlieTakeToolStripMenuItem.Text = "CHARlie take";
+            this.cHARlieTakeToolStripMenuItem.Click += new System.EventHandler(this.cHARlieTakeToolStripMenuItem_Click);
             // 
             // фильтрыToolStripMenuItem
             // 
@@ -273,6 +282,13 @@
             this.стеклоToolStripMenuItem.Text = "Стекло";
             this.стеклоToolStripMenuItem.Click += new System.EventHandler(this.стеклоToolStripMenuItem_Click);
             // 
+            // минимумToolStripMenuItem
+            // 
+            this.минимумToolStripMenuItem.Name = "минимумToolStripMenuItem";
+            this.минимумToolStripMenuItem.Size = new System.Drawing.Size(259, 26);
+            this.минимумToolStripMenuItem.Text = "Минимум";
+            this.минимумToolStripMenuItem.Click += new System.EventHandler(this.минимумToolStripMenuItem_Click);
+            // 
             // матричныеToolStripMenuItem
             // 
             this.матричныеToolStripMenuItem.BackColor = System.Drawing.SystemColors.Desktop;
@@ -410,6 +426,21 @@
             this.прюиттаToolStripMenuItem.Text = "Прюитта";
             this.прюиттаToolStripMenuItem.Click += new System.EventHandler(this.прюиттаToolStripMenuItem_Click);
             // 
+            // лютоеToolStripMenuItem
+            // 
+            this.лютоеToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.шахматыToolStripMenuItem});
+            this.лютоеToolStripMenuItem.Name = "лютоеToolStripMenuItem";
+            this.лютоеToolStripMenuItem.Size = new System.Drawing.Size(228, 26);
+            this.лютоеToolStripMenuItem.Text = "Лютое";
+            // 
+            // шахматыToolStripMenuItem
+            // 
+            this.шахматыToolStripMenuItem.Name = "шахматыToolStripMenuItem";
+            this.шахматыToolStripMenuItem.Size = new System.Drawing.Size(157, 26);
+            this.шахматыToolStripMenuItem.Text = "Шахматы";
+            this.шахматыToolStripMenuItem.Click += new System.EventHandler(this.шахматыToolStripMenuItem_Click);
+            // 
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
@@ -480,28 +511,6 @@
             this.Dpicture.TabIndex = 6;
             this.Dpicture.TabStop = false;
             this.Dpicture.Click += new System.EventHandler(this.Dpicture_Click);
-            // 
-            // минимумToolStripMenuItem
-            // 
-            this.минимумToolStripMenuItem.Name = "минимумToolStripMenuItem";
-            this.минимумToolStripMenuItem.Size = new System.Drawing.Size(259, 26);
-            this.минимумToolStripMenuItem.Text = "Минимум";
-            this.минимумToolStripMenuItem.Click += new System.EventHandler(this.минимумToolStripMenuItem_Click);
-            // 
-            // лютоеToolStripMenuItem
-            // 
-            this.лютоеToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.шахматыToolStripMenuItem});
-            this.лютоеToolStripMenuItem.Name = "лютоеToolStripMenuItem";
-            this.лютоеToolStripMenuItem.Size = new System.Drawing.Size(228, 26);
-            this.лютоеToolStripMenuItem.Text = "Лютое";
-            // 
-            // шахматыToolStripMenuItem
-            // 
-            this.шахматыToolStripMenuItem.Name = "шахматыToolStripMenuItem";
-            this.шахматыToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.шахматыToolStripMenuItem.Text = "Шахматы";
-            this.шахматыToolStripMenuItem.Click += new System.EventHandler(this.шахматыToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -576,6 +585,7 @@
         private System.Windows.Forms.ToolStripMenuItem минимумToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem лютоеToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem шахматыToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cHARlieTakeToolStripMenuItem;
     }
 }
 

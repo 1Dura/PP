@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BeSTa\\PP\\PE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|C:\\Users\\BeSTa\\PP\\PE\\imagetoasciiconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:imagetoasciiconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|C:\\Users\\BeSTa\\PP\\PE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|c:\\users\\besta\\pp\\pe\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|C:\\Users\\BeSTa\\PP\\PE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|C:\\Users\\BeSTa\\PP\\PE\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageToAsciiConverter.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\PP\\PE\\ImageToAsciiConverter.cs",
+              "RelativeDocumentMoniker": "ImageToAsciiConverter.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\PP\\PE\\ImageToAsciiConverter.cs",
+              "RelativeToolTip": "ImageToAsciiConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:49:36.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\PP\\PE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\PP\\PE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:49:07.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\PP\\PE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\PP\\PE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAmwKYBAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:47:27.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\PP\\PE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\PP\\PE\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:42:11.767Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\PP\\PE\\Filters.cs",
+              "RelativeDocumentMoniker": "Filters.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\PP\\PE\\Filters.cs",
+              "RelativeToolTip": "Filters.cs",
+              "ViewState": "AgIAADkCAAAAAAAAAAAUwIECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:36:44.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
