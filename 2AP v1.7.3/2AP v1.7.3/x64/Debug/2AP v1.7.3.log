@@ -1,0 +1,38 @@
+﻿  2AP v1.7.3.cpp
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(36,94): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(482,65): warning C4244: =: преобразование "_Ty2" в "int", возможна потеря данных
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(482,65): warning C4244:         with
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(482,65): warning C4244:         [
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(482,65): warning C4244:             _Ty2=float
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(482,65): warning C4244:         ]
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(483,72): warning C4244: =: преобразование "_Ty2" в "int", возможна потеря данных
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(483,72): warning C4244:         with
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(483,72): warning C4244:         [
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(483,72): warning C4244:             _Ty2=float
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(483,72): warning C4244:         ]
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(514,65): warning C4244: =: преобразование "int" в "_Ty2", возможна потеря данных
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(514,65): warning C4244:         with
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(514,65): warning C4244:         [
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(514,65): warning C4244:             _Ty2=float
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(514,65): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244: инициализация: преобразование "int" в "_Ty2", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+  (компиляция исходного файла "2AP%20v1.7.3.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(489,32):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::string,float>::pair<_Ty&,int&,0>(_Other1,_Other2) noexcept(false)"
+          with
+          [
+              _Ty=std::string,
+              _Other1=std::string &,
+              _Other2=int &
+          ]
+              C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(489,31):
+              см. первую ссылку на std::pair<std::string,float>::pair "autoPipe"
+  
+C:\Users\BeSTa\source\repos\2AP v1.7.3\2AP v1.7.3.cpp(665,1): warning C4715: autoPipe: значение возвращается не при всех путях выполнения
+  2AP v1.7.3.vcxproj -> C:\Users\BeSTa\source\repos\2AP v1.7.3\x64\Debug\2AP v1.7.3.exe

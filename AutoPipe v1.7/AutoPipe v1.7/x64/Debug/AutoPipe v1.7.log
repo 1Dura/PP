@@ -1,5 +1,0 @@
-﻿  AutoPipe v1.7.cpp
-C:\Users\BeSTa\source\repos\AutoPipe v1.7\AutoPipe v1.7.cpp(23,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\BeSTa\source\repos\AutoPipe v1.7\AutoPipe v1.7.cpp(26,94): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\BeSTa\source\repos\AutoPipe v1.7\AutoPipe v1.7.cpp(626,1): warning C4715: autoPipe: значение возвращается не при всех путях выполнения
-  AutoPipe v1.7.vcxproj -> C:\Users\BeSTa\source\repos\AutoPipe v1.7\x64\Debug\AutoPipe v1.7.exe
