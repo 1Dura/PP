@@ -1,0 +1,17 @@
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\tomograph2.exe.config
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\tomograph2.exe
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\tomograph2.pdb
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.csproj.AssemblyReference.cache
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.Properties.Resources.resources
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.csproj.GenerateResource.cache
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.csproj.CoreCompileInputs.cache
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.exe
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.pdb
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\OpenTK.dll
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\OpenTK.pdb
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\OpenTK.xml
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\BeSTa\source\repos\tomograph2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.Form1.resources
+C:\Users\BeSTa\source\repos\tomograph2\obj\Debug\tomograph2.csproj.Up2Date
