@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\BeSTa\\PP\\PE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|C:\\Users\\BeSTa\\PP\\PE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|c:\\users\\besta\\pp\\pe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|c:\\users\\besta\\pp\\pe\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|C:\\Users\\BeSTa\\PP\\PE\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF9948F4-A922-4DDA-8A85-1B1CD24E33AD}|2 lab computer graphics.csproj|solutionrelative:filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,8 +91,7 @@
               "RelativeToolTip": "Filters.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:36:44.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T11:36:44.306Z"
             }
           ]
         }
