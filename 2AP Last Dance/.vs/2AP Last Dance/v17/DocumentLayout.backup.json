@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|c:\\users\\besta\\source\\repos\\2ap last dance\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|solutionrelative:instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\regs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|solutionrelative:regs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\combuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BD6981-97C4-4AF4-81CB-9061181E6E78}|2AP Last Dance.csproj|solutionrelative:combuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAowBEBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:12:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "REGS.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\REGS.cs",
+              "RelativeDocumentMoniker": "REGS.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\REGS.cs",
+              "RelativeToolTip": "REGS.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:12:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\ComBuilder.cs",
+              "RelativeDocumentMoniker": "ComBuilder.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\ComBuilder.cs",
+              "RelativeToolTip": "ComBuilder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:43:30.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructions.cs",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\Instructions.cs",
+              "RelativeDocumentMoniker": "Instructions.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\Instructions.cs",
+              "RelativeToolTip": "Instructions.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAIwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:19:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\BeSTa\\source\\repos\\2AP Last Dance\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:07:27.876Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

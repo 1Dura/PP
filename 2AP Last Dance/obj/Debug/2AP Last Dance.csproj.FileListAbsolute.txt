@@ -1,0 +1,17 @@
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\2AP Last Dance.exe.config
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\2AP Last Dance.exe
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\2AP Last Dance.pdb
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\2AP Last Dance.csproj.AssemblyReference.cache
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\_2AP_Last_Dance.InputLines.resources
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\_2AP_Last_Dance.Properties.Resources.resources
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\2AP Last Dance.csproj.GenerateResource.cache
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\2AP Last Dance.csproj.CoreCompileInputs.cache
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\2AP Last.BE14A017.Up2Date
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\2AP Last Dance.exe
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\2AP Last Dance.pdb
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BeSTa\source\repos\2AP Last Dance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BeSTa\source\repos\2AP Last Dance\obj\Debug\_2AP_Last_Dance.AutoPipe.resources
